@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Lake Worth Dental Studio",
+  "description": "Premium dental care in Lake Worth featuring cosmetic dentistry, dental implants, and an AI-powered treatment assistant.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
